@@ -1,16 +1,16 @@
 ## Hey 👋, I'm Himanshu!  
   
 
-<a href="https://github.com/https://github.com/Himanshu507" target="_blank">
+<a href="https://github.com/Himanshu507" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu507/" target="_blank">
+<a href="https://www.linkedin.com/in/himanshu507/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/himanshuroy507/" target="_blank">
+<a href="https://www.instagram.com/himanshuroy507/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9278421/himanshu" target="_blank">
+<a href="https://stackoverflow.com/users/9278421/himanshu" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
@@ -52,10 +52,3 @@ Driven by a desire to learn and a willingness to take on new challenges, I am co
 <br/>
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu507&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
