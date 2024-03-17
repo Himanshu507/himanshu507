@@ -20,13 +20,13 @@
 ### Glad to see you here!  
 As an accomplished **MCA** post-graduate with a deep-rooted interest in **quality assurance**, I possess a broad range of technical skills and expertise that make me an ideal candidate for any **SDET QA** position. 
 
-With proficiency in **Java Selenium WebDriver, Docker, Jenkins CI/CD, TestNG, POM, Cucumber, and Selenium Grid**, as well as knowledge of **Python, SQL, HTML, CSS, and JavaScript**, I am fully equipped to handle complex QA tasks.
+With proficiency in **Java Selenium WebDriver, Docker, Jenkins CI/CD, Pytest, POM, PyTest, and Selenium Grid**, as well as knowledge of **Python, SQL, HTML, CSS, and JavaScript**, I am fully equipped to handle complex QA tasks.
 
 In addition to my technical skills, I founded **StudyExperts** to share my knowledge and expertise in technology and programming. Furthermore, my one-year experience in **Android app development** showcases my abilities to work effectively with a team, guide interns, handle backend tasks using **Firebase**, and manage code using **Github**.
 
 Driven by a desire to learn and a willingness to take on new challenges, I am confident that my dedication, hard work, and attention to detail make me an asset to any team.  
   
-
+<a href="https://rebrand.ly/resume_Himanshu" target="_blank">**Resume Download** </a>
 
 
 ### Language & Tools  
