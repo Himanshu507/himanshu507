@@ -8,4 +8,3 @@ As an accomplished **MCA** post-graduate with a deep-rooted interest in **qualit
 I’m passionate about driving shift-left testing, improving release velocity, and ensuring product quality through modern test strategies.
 
 <br/>
-<br/>
