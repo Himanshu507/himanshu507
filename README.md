@@ -1,19 +1,21 @@
-<div align="center">
-
-<img src="./claude-mascot.svg" width="72" height="64" alt="Claude pixel mascot" />
-
-# Himanshu
-
-**Software Engineer · QA Automation · Open Source Builder**
-
-[![Website](https://img.shields.io/badge/himanshudev.in-cc785c?style=flat-square&logo=safari&logoColor=white)](https://himanshudev.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu507)
-[![YouTube](https://img.shields.io/badge/YouTube-cc785c?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Fire-Awesome)
-[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu.ducs19@gmail.com)
-
-Delhi, India &nbsp;·&nbsp; MCA &nbsp;·&nbsp; 6+ years
-
-</div>
+<table>
+<tr>
+<td valign="middle">
+<h1>Himanshu</h1>
+<p><strong>Software Engineer · QA Automation · Open Source Builder</strong></p>
+<p>
+<a href="https://himanshudev.in"><img src="https://img.shields.io/badge/himanshudev.in-cc785c?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
+<a href="https://linkedin.com/in/himanshu507"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://youtube.com/@Fire-Awesome"><img src="https://img.shields.io/badge/YouTube-cc785c?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="mailto:himanshu.ducs19@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+<p>Delhi, India &nbsp;·&nbsp; MCA &nbsp;·&nbsp; 6+ years</p>
+</td>
+<td align="right" valign="middle" width="120">
+<img src="./claude-mascot.svg" width="108" alt="Claude pixel mascot"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,7 +71,7 @@ MCA post-grad at the intersection of engineering and quality — building test f
 
 ## Experience
 
-**Senior Software Engineer** · HappiestMinds *(Aristocrat Gaming)* · `Nov 2023 – Present`
+**Software Engineer** · PureSoftware *(Aristocrat Gaming)* · `Nov 2023 – Present`
 - 300+ E2E scenarios automated across Class II/III gaming systems
 - CI-driven regression pipelines with Jenkins analysis
 - RAG pipeline validation using RAGAS (faithfulness + context precision)
@@ -79,3 +81,11 @@ MCA post-grad at the intersection of engineering and quality — building test f
 - Owned test planning, case design, and release validation end-to-end
 
 ---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu507&show_icons=true&theme=dark&bg_color=181715&title_color=cc785c&icon_color=e8a55a&text_color=a09d96&border_color=252320&hide_border=false&count_private=true)](https://github.com/Himanshu507)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu507&layout=compact&theme=dark&bg_color=181715&title_color=cc785c&text_color=a09d96&border_color=252320&langs_count=6)](https://github.com/Himanshu507)
+
+</div>
