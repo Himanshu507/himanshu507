@@ -1,0 +1,16 @@
+<svg width="130" height="116" viewBox="0 0 130 116" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated">
+  <!-- Body -->
+  <rect x="17" y="0" width="96" height="77" fill="#cc785c"/>
+  <!-- Left eye -->
+  <rect x="42" y="23" width="17" height="17" fill="#181715"/>
+  <!-- Right eye -->
+  <rect x="71" y="23" width="17" height="17" fill="#181715"/>
+  <!-- Left arm -->
+  <rect x="0" y="31" width="17" height="27" fill="#a9583e"/>
+  <!-- Right arm -->
+  <rect x="113" y="31" width="17" height="27" fill="#a9583e"/>
+  <!-- Left leg -->
+  <rect x="42" y="77" width="17" height="35" fill="#a9583e"/>
+  <!-- Right leg -->
+  <rect x="71" y="77" width="17" height="35" fill="#a9583e"/>
+</svg>
