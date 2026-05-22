@@ -1,21 +1,15 @@
-<table>
-<tr>
-<td valign="middle">
-<h1>Himanshu</h1>
-<p><strong>Software Engineer · QA Automation · Open Source Builder</strong></p>
-<p>
-<a href="https://himanshudev.in"><img src="https://img.shields.io/badge/himanshudev.in-cc785c?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
-<a href="https://linkedin.com/in/himanshu507"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://youtube.com/@Fire-Awesome"><img src="https://img.shields.io/badge/YouTube-cc785c?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="mailto:himanshu.ducs19@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-<p>Delhi, India &nbsp;·&nbsp; MCA &nbsp;·&nbsp; 6+ years</p>
-</td>
-<td align="right" valign="middle" width="120">
-<img src="./claude-mascot.svg" width="108" alt="Claude pixel mascot"/>
-</td>
-</tr>
-</table>
+<img src="./claude-mascot.svg" width="108" align="right" alt="Claude pixel mascot"/>
+
+# Himanshu
+
+**Software Engineer · QA Automation · Open Source Builder**
+
+[![Website](https://img.shields.io/badge/himanshudev.in-cc785c?style=flat-square&logo=safari&logoColor=white)](https://himanshudev.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu507)
+[![YouTube](https://img.shields.io/badge/YouTube-cc785c?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Fire-Awesome)
+[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu.ducs19@gmail.com)
+
+Delhi, India &nbsp;·&nbsp; MCA &nbsp;·&nbsp; 6+ years
 
 ---
 
