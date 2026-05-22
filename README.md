@@ -67,7 +67,7 @@ MCA post-grad at the intersection of engineering and quality — building test f
 
 ## Experience
 
-**Software Engineer** · PureSoftware *(Aristocrat Gaming)* · `Nov 2023 – Present`
+**Senior Software Engineer** · HappiestMinds *(Aristocrat Gaming)* · `Nov 2023 – Present`
 - 300+ E2E scenarios automated across Class II/III gaming systems
 - CI-driven regression pipelines with Jenkins analysis
 - RAG pipeline validation using RAGAS (faithfulness + context precision)
@@ -77,11 +77,3 @@ MCA post-grad at the intersection of engineering and quality — building test f
 - Owned test planning, case design, and release validation end-to-end
 
 ---
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu507&show_icons=true&theme=dark&bg_color=181715&title_color=cc785c&icon_color=e8a55a&text_color=a09d96&border_color=252320&hide_border=false&count_private=true)](https://github.com/Himanshu507)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu507&layout=compact&theme=dark&bg_color=181715&title_color=cc785c&text_color=a09d96&border_color=252320&langs_count=6)](https://github.com/Himanshu507)
-
-</div>
