@@ -8,7 +8,8 @@
 
 [![Website](https://img.shields.io/badge/himanshudev.in-cc785c?style=flat-square&logo=safari&logoColor=white)](https://himanshudev.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu507)
-[![Email](https://img.shields.io/badge/Email-cc785c?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu.ducs19@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-cc785c?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Fire-Awesome)
+[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu.ducs19@gmail.com)
 
 Delhi, India &nbsp;·&nbsp; MCA &nbsp;·&nbsp; 6+ years
 
@@ -32,13 +33,14 @@ MCA post-grad at the intersection of engineering and quality — building test f
 
 ---
 
-**[Reddsummary](https://reddsummary.com)** — Reddit thread analyzer
-> AI summaries, sentiment analysis, and comment ranking for any Reddit thread.
+**[AI Video Gen](https://youtube.com/@Fire-Awesome)** — AI Automation
+> Fully automated cinematic video pipeline for GitHub repos. Feed a repo URL → LLM script → TTS voiceover → Playwright capture → Remotion render → exports YouTube Shorts (9:16) and long-form (16:9) MP4s autonomously.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=3178c6)
+![Remotion](https://img.shields.io/badge/Remotion-333?style=flat-square&logo=react&logoColor=61dafb)
+![Claude API](https://img.shields.io/badge/Claude_API-333?style=flat-square&logo=anthropic&logoColor=cc785c)
 ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi&logoColor=009688)
-![Redis](https://img.shields.io/badge/Redis-333?style=flat-square&logo=redis&logoColor=dc382d)
-![Firebase](https://img.shields.io/badge/Firebase-333?style=flat-square&logo=firebase&logoColor=ffca28)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-333?style=flat-square&logo=ffmpeg&logoColor=007808)
 
 ---
 
