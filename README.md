@@ -2,18 +2,18 @@
 
 # Himanshu
 
-**Software Engineer · QA Automation · Open Source Builder**
+**AI Engineer · Agentic Systems · RAG Pipelines**
 
 [![Website](https://img.shields.io/badge/himanshudev.in-cc785c?style=flat-square&logo=safari&logoColor=white)](https://himanshudev.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu507)
 [![YouTube](https://img.shields.io/badge/YouTube-cc785c?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Fire-Awesome)
 [![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu.ducs19@gmail.com)
 
-Delhi, India &nbsp;·&nbsp; MCA &nbsp;·&nbsp; 6+ years
+Delhi, India &nbsp;·&nbsp; MCA &nbsp;·&nbsp; 6.5+ years
 
 ---
 
-MCA post-grad at the intersection of engineering and quality — building test frameworks, CI/CD pipelines, internal tooling, and open source products.
+AI-focused Senior Software Engineer building agentic AI systems and RAG pipelines with Python — from ops dashboards powered by Claude Code and MCP to self-learning review agents and open source AI tooling.
 
 ---
 
@@ -40,13 +40,13 @@ MCA post-grad at the intersection of engineering and quality — building test f
 
 ---
 
-**Test Trigger** — Internal QA tooling
-> Bridges automation and manual QA. Cosine similarity categorizes failed test cases and surfaces actionable signals for the team.
+**Pipeline Analysis Tool** — RAG-based failure triage
+> RAG system using LangChain and Ollama (nomic-embed-text embeddings) that classifies failed test cases by component from raw error text, saving 20% of time spent on failure triage.
 
 ![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=3776ab)
+![LangChain](https://img.shields.io/badge/LangChain-333?style=flat-square&logo=langchain&logoColor=1c3c3c)
+![Ollama](https://img.shields.io/badge/Ollama-333?style=flat-square&logo=ollama&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb&logoColor=47a248)
-![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat-square&logo=jenkins&logoColor=d24939)
-![FastAPI](https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi&logoColor=009688)
 
 ---
 
@@ -54,23 +54,25 @@ MCA post-grad at the intersection of engineering and quality — building test f
 
 | | |
 |---|---|
-| **QA & Automation** | Python · Pytest · Selenium · Appium · TestNG |
-| **AI Testing** | RAGAS · Faithfulness · Context Precision |
-| **Backend** | FastAPI · REST APIs · MongoDB · SQL · Postman |
-| **Frontend** | JavaScript · React · Node.js · Vite |
-| **AI Workflow** | Claude Code · Codex CLI · Copilot · MCP |
-| **CI/CD & Infra** | Jenkins · GitHub Actions · Docker · AWS |
+| **Languages** | Python · JavaScript · SQL · Java |
+| **AI/ML & Agentic** | LangChain · LangGraph · LangSmith · MCP · RAG · RAGAS |
+| **Backend & Web** | FastAPI · Next.js · React · Node.js · REST APIs |
+| **AI Workflow** | Claude Code · Cursor · Claude Skills · Playwright MCP |
+| **Dev Tools & Infra** | Git · Docker · Jenkins · GitHub Actions · AWS · MongoDB · Firebase · Supabase · Clerk |
 
 ---
 
 ## Experience
 
-**Senior Software Engineer** · HappiestMinds *(Aristocrat Gaming)* · `Nov 2023 – Present`
-- 300+ E2E scenarios automated across Class II/III gaming systems
-- CI-driven regression pipelines with Jenkins analysis
-- RAG pipeline validation using RAGAS (faithfulness + context precision)
+**Senior Software Engineer** · HappiestMinds *(Client — Aristocrat Gaming)* · `Nov 2023 – July 2026`
+- Built an agentic AI ops dashboard from scratch (Python, FastAPI, Next.js, WebSocket, MongoDB) using Claude Code, Claude Skills, and Playwright MCP as the core AI-assisted dev workflow — helping 500+ team members and lifting regression team productivity 30%
+- Built the Pipeline Analysis Tool, a RAG system (LangChain + Ollama nomic-embed-text) that classifies failed test cases by component from raw error text, saving 20% of failure-triage time
+- Built a self-learning code review agent for GitHub Copilot that mines historical senior-engineer review comments into reusable pattern/rule sets, retraining weekly — cutting review time and speeding up story completion
+- Validated RAG-based systems with RAGAS (faithfulness, context precision) to reduce hallucinations and improve output reliability
+- Designed and executed automation for 300+ E2E scenarios across Class II/III gaming systems, owning CI-driven regression pipelines and Jenkins pipeline analysis
 
-**QA Engineer** · BartleBy *(Remote)* · `Sep 2020 – Sep 2023`
-- Built automation frameworks from scratch — Python, Pytest, POM
-- Owned test planning, case design, and release validation end-to-end
+**SME Engineer** · BartleBy *(Remote)* · `Sep 2020 – Sep 2023`
+- Contributed to QA for the platform, validating core workflows
+- Owned test planning, test case design, and manual validation for functional coverage and releases
+- Designed and implemented automation frameworks from scratch — Python, Pytest, POM
 
